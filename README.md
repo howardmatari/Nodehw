@@ -1,7 +1,6 @@
-# Facebook
-  by Michael Rodriguez
-
-
+# Node.js
+  by Matari
+![project demo](./ezgif.com-video-to-gif.gif)
 # TABLE OF CONTENTS
 
 1. [ Description ](#Description)
@@ -17,10 +16,10 @@
 
     
   ## Description 
-  Sample Description
+  Description sample
 
   ## Installation
-  Step1 and Step2
+  Steps 1 and Steps2
 
   ## Usage
   Sample instructions
@@ -29,10 +28,10 @@
   ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Contributing
-  
+  John Doe
 
   ## Tests
-  
+  Sample test
 
   ## Questions
   If you have any questions contact me at data.email
